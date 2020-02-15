@@ -1,0 +1,1 @@
+export const ImageURL= 'https://image.tmdb.org/t/p/original/';
